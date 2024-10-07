@@ -6,7 +6,6 @@ This is the README file for the text completion/editing/auto-correction tool pro
 
 - Utilize existing functions from your old repository.
 - Write the project code in Go, following good coding practices.
-- Include unit tests by creating test files.
 - Implement the following modifications to the input text:
 
 ### Text Modifications
